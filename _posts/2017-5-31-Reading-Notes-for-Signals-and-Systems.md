@@ -2,6 +2,7 @@
 layout: post
 title: 信号与系统笔记
 tags: Notes
+published: true
 ---
 
 
@@ -24,3 +25,7 @@ tags: Notes
 - 单位阶跃信号 (Step Signal)
 
 ## 系统
+
+其实，系统本质上就是：
+
+$$x \Rightarrow^{T} y$$
