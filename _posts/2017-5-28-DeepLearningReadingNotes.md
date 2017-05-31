@@ -25,6 +25,9 @@ a.k.a. The knoweldge that we should familiar with.
     
     
 ### Integrating Example: Principal Components Analysis
-TBC...
+
+# Part II Modern Deep Learning
+
+
 
 
