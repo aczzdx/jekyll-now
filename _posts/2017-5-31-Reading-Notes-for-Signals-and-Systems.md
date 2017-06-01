@@ -28,7 +28,7 @@ published: true
 
 其实，系统本质上就是：
 
-$$x \Rightarrow^{T} y$$
+$x \Rightarrow^{T} y$
 
 
 ### 系统的性质
@@ -36,7 +36,7 @@ $$x \Rightarrow^{T} y$$
 - 可叠加性
 - 齐次性
 - 时不变性（Time invariance)
-  - 当 $$ e(t) \to w(t) $$ 时， $$ e(t - t_0) \to w(t - t_0) $$
+  - 当 $ e(t) \to w(t) $ 时， $ e(t - t_0) \to w(t - t_0) $
 
 事实上，我们称具有叠加性与均匀性的输入输出系统为线性系统。
 
