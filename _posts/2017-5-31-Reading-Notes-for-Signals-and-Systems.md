@@ -28,4 +28,4 @@ published: true
 
 其实，系统本质上就是：
 
-$x \Rightarrow^{T} y$
+$$x \Rightarrow^{T} y$$
